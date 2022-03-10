@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/u', function(req, res, next) {
-  res.send('u1uuuuuu');
+  res.send('u1uuu');
 });
 
 module.exports = router;
